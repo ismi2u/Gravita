@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Gravita", ".", "{2EDAA76A-BDDA-4EB2-8CAE-D18F80DDFDA2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55313"
+		Debug.AspNetCompiler.PhysicalPath = "..\Gravita\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55313\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55313"
+		Release.AspNetCompiler.PhysicalPath = "..\Gravita\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55313\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55313"
+		SlnRelativePath = "..\Gravita\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EDAA76A-BDDA-4EB2-8CAE-D18F80DDFDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDAA76A-BDDA-4EB2-8CAE-D18F80DDFDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEEDF678-7A60-49B2-B337-15BA6BEA1296}
+	EndGlobalSection
+EndGlobal
